@@ -1,3 +1,3 @@
 # exercise-github-test
 testing github repo
-testing conflicts
+conflict is dead
